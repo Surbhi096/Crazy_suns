@@ -1,0 +1,6 @@
+.ant-drawer-header-title {
+  flex-direction: row-reverse;
+}
+.ant-drawer-close {
+  color: #f9faff !important;
+}
